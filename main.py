@@ -24,7 +24,7 @@ def main():
     linkedin_interface.find_jobs()
     time.sleep(3)
 
-    # Close the browser
+    # Close The Browser
     driver.quit()
 if __name__ == "__main__":
     main()
